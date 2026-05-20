@@ -1,0 +1,266 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║                  🌾 FARMER CHATBOT - QUESTION TYPES GUIDE                 ║
+║                                                                            ║
+║                       What Can You Ask This Chatbot?                       ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌─ QUESTION CATEGORY 1: GROWING SEASON ─────────────────────────────────────┐
+│                                                                             │
+│  Topic: When to plant and best season for crops                           │
+│                                                                             │
+│  ✓ "When to plant tomatoes?"                                              │
+│  ✓ "What is the growing season for potato?"                               │
+│  ✓ "Best time to grow cabbage?"                                           │
+│  ✓ "When should I grow onion?"                                            │
+│  ✓ "Mango growing season?"                                                │
+│  ✓ "Apple climate requirements?"                                          │
+│                                                                             │
+│  🎯 Chatbot tells you: Months, temperature, climate, season             │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ QUESTION CATEGORY 2: FERTILIZER ────────────────────────────────────────┐
+│                                                                             │
+│  Topic: Best fertilizers and nutrients for crops                          │
+│                                                                             │
+│  ✓ "What fertilizer for tomato?"                                          │
+│  ✓ "Best NPK ratio for potato?"                                           │
+│  ✓ "Organic manure for rice?"                                             │
+│  ✓ "Fertilizer requirement of wheat?"                                     │
+│  ✓ "How to fertilize mango?"                                              │
+│  ✓ "Compost for vegetables?"                                              │
+│                                                                             │
+│  🎯 Chatbot tells you: NPK ratio, amount, frequency, organic options    │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ QUESTION CATEGORY 3: WATER & IRRIGATION ──────────────────────────────────┐
+│                                                                             │
+│  Topic: How much water and irrigation schedule                            │
+│                                                                             │
+│  ✓ "How much water for tomato?"                                           │
+│  ✓ "Water requirement of potato?"                                         │
+│  ✓ "How often to water cabbage?"                                          │
+│  ✓ "Irrigation for rice?"                                                 │
+│  ✓ "Banana water needs?"                                                  │
+│  ✓ "Best watering time for vegetables?"                                   │
+│                                                                             │
+│  🎯 Chatbot tells you: Total water, frequency, timing, methods          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ QUESTION CATEGORY 4: DISEASE MANAGEMENT ──────────────────────────────────┐
+│                                                                             │
+│  Topic: Plant diseases and treatment                                      │
+│                                                                             │
+│  ✓ "Tomato has spots on leaves"                                           │
+│  ✓ "How to treat Early Blight?"                                           │
+│  ✓ "Powdery Mildew in cucumber?"                                          │
+│  ✓ "Disease in potato - solution?"                                        │
+│  ✓ "Rice leaf blast treatment?"                                           │
+│  ✓ "Mango anthracnose control?"                                           │
+│                                                                             │
+│  🎯 Chatbot tells you: Symptoms, treatment, fungicide, prevention        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ QUESTION CATEGORY 5: PEST CONTROL ────────────────────────────────────────┐
+│                                                                             │
+│  Topic: Insects and pest management                                       │
+│                                                                             │
+│  ✓ "Tomato has fruit borer"                                               │
+│  ✓ "How to control aphids?"                                               │
+│  ✓ "Cotton leaf hopper pest?"                                             │
+│  ✓ "Guava fruit fly control?"                                             │
+│  ✓ "Nematode in potato - help?"                                           │
+│  ✓ "Organic pest control methods?"                                        │
+│                                                                             │
+│  🎯 Chatbot tells you: Identification, pesticide, organic options, traps │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ QUESTION CATEGORY 6: HARVESTING ─────────────────────────────────────────┐
+│                                                                             │
+│  Topic: When and how to harvest crops                                     │
+│                                                                             │
+│  ✓ "When to harvest tomato?"                                              │
+│  ✓ "Potato maturity indicators?"                                          │
+│  ✓ "How to know if onion is ready?"                                       │
+│  ✓ "Mango harvesting tips?"                                               │
+│  ✓ "Papaya picking time?"                                                 │
+│  ✓ "Rice harvest stage?"                                                  │
+│                                                                             │
+│  🎯 Chatbot tells you: Harvest time, signs, methods, post-harvest care  │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ QUESTION CATEGORY 7: CROP INFORMATION ────────────────────────────────────┐
+│                                                                             │
+│  Topic: General information about crops                                   │
+│                                                                             │
+│  ✓ "Tell me about tomato"                                                 │
+│  ✓ "How to grow cabbage?"                                                 │
+│  ✓ "Rice cultivation guide"                                               │
+│  ✓ "Mango farming information"                                            │
+│  ✓ "Banana plantation tips"                                               │
+│  ✓ "Winter vegetables to grow?"                                           │
+│                                                                             │
+│  🎯 Chatbot tells you: Growing method, yield, nutrition, varieties      │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ QUESTION CATEGORY 8: MARKET INFORMATION ──────────────────────────────────┐
+│                                                                             │
+│  Topic: Pricing and market demand                                         │
+│                                                                             │
+│  ✓ "What's the tomato price?"                                             │
+│  ✓ "Market rate for potato?"                                              │
+│  ✓ "Where can I sell vegetables?"                                         │
+│  ✓ "Which crop is most profitable?"                                       │
+│  ✓ "Seasonal price trends?"                                               │
+│  ✓ "Export opportunities?"                                                │
+│                                                                             │
+│  🎯 Chatbot tells you: Prices, demand, channels, timing, premiums       │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ QUESTION CATEGORY 9: SOIL & CLIMATE ──────────────────────────────────────┐
+│                                                                             │
+│  Topic: Soil types and environmental conditions                           │
+│                                                                             │
+│  ✓ "What soil for tomato?"                                                │
+│  ✓ "Soil pH for potato?"                                                  │
+│  ✓ "Climate for mango farming?"                                           │
+│  ✓ "Clay soil crops?"                                                     │
+│  ✓ "Acidic soil correction?"                                              │
+│  ✓ "Altitude suitable for wheat?"                                         │
+│                                                                             │
+│  🎯 Chatbot tells you: Soil type, pH, drainage, climate needs, prep     │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ QUESTION CATEGORY 10: CROP ROTATION ──────────────────────────────────────┐
+│                                                                             │
+│  Topic: Succession planting and crop rotation                             │
+│                                                                             │
+│  ✓ "What to plant after tomato?"                                          │
+│  ✓ "Crop rotation benefits?"                                              │
+│  ✓ "Winter crops to grow?"                                                │
+│  ✓ "Intercropping with rice?"                                             │
+│  ✓ "Companion planting?"                                                  │
+│  ✓ "After potato, which crop?"                                            │
+│                                                                             │
+│  🎯 Chatbot tells you: Rotation options, benefits, seasons, companions  │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌾 TOTAL CROPS COVERED: 39
+
+VEGETABLES (24):
+  Tomato, Potato, Onion, Garlic, Cabbage, Cauliflower, Broccoli, Carrot,
+  Cucumber, Bell Pepper, Chili, Spinach, Lettuce, Beans, Peas, Radish,
+  Turnip, Beetroot, Sweet Potato, Eggplant, Okra, Capsicum, Asparagus,
+  Artichoke
+
+FRUITS (15):
+  Apple, Banana, Mango, Orange, Lemon, Grapes, Strawberry, Papaya,
+  Pineapple, Coconut, Watermelon, Melon, Guava, Pomegranate, Kiwi
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌍 LANGUAGES SUPPORTED: 4
+
+  🇺🇸 ENGLISH: "How to grow tomatoes?"
+  🇮🇳 HINDI: "गेहूं कैसे उगाते हैं?"
+  🇪🇸 SPANISH: "¿Cómo cultivar tomates?"
+  🇫🇷 FRENCH: "Comment cultiver les tomates?"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎤 VOICE SUPPORT: YES ✓
+
+Ask questions by:
+  1. Typing (web interface)
+  2. Speaking (click 🎤 for voice input)
+  3. Using terminal chatbot
+
+Get responses:
+  1. Text answer (always)
+  2. Voice answer (if auto-play enabled) 🔊
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 EXPERT TIPS FOR ASKING QUESTIONS:
+
+  ✅ DO:
+    • Be specific: "Fruit borer in tomato?" (not just "pests")
+    • Mention crop name: "Onion disease?" (not "vegetable disease")
+    • Ask one topic: Ask about treatment after diagnosis
+    • Give context: "Yellow leaves on tomato" (not just "problem")
+    • Use clear language: "When to harvest?" (not "when ready?")
+
+  ❌ DON'T:
+    • Ask multiple crops at once
+    • Use unclear crop names
+    • Ask non-farming questions
+    • Ask for real-time weather
+    • Mix unrelated topics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 QUESTION DIFFICULTY LEVELS:
+
+EASY (Quick 1-2 minute answers):
+  "When to harvest potato?"
+  "What is NPK?"
+  "Best fertilizer for tomato?"
+
+MEDIUM (Detailed 3-5 minute answers):
+  "How to control Early Blight in tomato?"
+  "Which crops for winter?"
+  "Organic pest control?"
+
+ADVANCED (Complex multi-step answers):
+  "Plan 2-year crop rotation"
+  "Improve soil naturally"
+  "Integrated pest management"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 START WITH THESE POPULAR QUESTIONS:
+
+  1. "How to grow tomatoes?"
+  2. "What pests affect potato?"
+  3. "Mango disease management"
+  4. "Best fertilizer for wheat?"
+  5. "When to harvest onion?"
+  6. "Water requirement for banana?"
+  7. "Cabbage growing season?"
+  8. "Market prices for vegetables"
+  9. "What crops in winter?"
+  10. "Organic farming methods?"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 RESULT: INSTANT EXPERT AGRICULTURAL ADVICE
+
+Ask anything about farming and get:
+  ✓ Accurate information
+  ✓ Practical solutions
+  ✓ Expert recommendations
+  ✓ Step-by-step guidance
+  ✓ Multiple language support
+  ✓ Voice response available
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Ready to ask? 🌾
+
+  Web: http://localhost:8000 → Type or use 🎤
+  Terminal: python terminal_chatbot.py → Type your question
+
+Happy Farming! 🚀
